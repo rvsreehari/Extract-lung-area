@@ -1,1 +1,2 @@
-# Deep-Learning-in-Medical-Science
+#  Medical Science
+Data- https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
